@@ -36,13 +36,13 @@ This repository contains the source code for the personal website of Malika Favr
 
 Here are some screenshots of the website:
 
-![Home Page](/images/readme/home_page.png)
+![Home Page](https://github.com/Da-vinia/malika-favre-web/blob/main/public/images/readme/home_page.png)
 *Description: Screenshot of the home page of the application.*
 
-![About Page](images/readme/about_page.png)
+![About Page](https://github.com/Da-vinia/malika-favre-web/blob/main/public/images/readme/about_page.png)
 *Description: Screenshot of the "About" page with information about the artist.*
 
-![Works Page](images/readme/works_page.png)
+![Works Page](https://github.com/Da-vinia/malika-favre-web/blob/main/public/images/readme/works_page.png)
 *Description: Screenshot of the works page showcasing the artist's portfolio.*
 
 ## Author
